@@ -1,4 +1,2 @@
 # MscEpd
-Resultados tesisEpidemiología
-
-Prueba aprendiendo github
+Resultados tesis Epidemiología
